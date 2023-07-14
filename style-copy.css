@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&display=swap');
+
+* {
+    
+    font-family: 'Bruno Ace',
+}
+
+.collapse ul li a:hover{
+    color: rgb(242, 78, 8);
+}
+
+.header-bg{
+    /* background: radial-gradient(circle, rgba(252,70,227,1) 0%, rgba(154,63,251,1) 100%); */
+    background-color: white;
+    
+}
+
+
+.body{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(166,11,180,1) 35%, rgb(243, 192, 228) 100%);
+
+}
+
+.aprender{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    width: 300px 40px;
+margin: 30px;
+padding: 15px;
+border-radius: 15px;
+box-shadow: 0px 8px 8px 0px;
+border-color: white;
+border-style: solid;
+border-width: 0.5px;
+
+}
+.aprender h6 {
+    color: blueviolet;
+}
+div.collapse ul.navbar-nav li.nav-item a:hover{
+    color: blueviolet;
+}
+
+.btn-roxo{
+    background-color: blueviolet;
+    justify-content: center;
+    color: white;
+}
+
+
+/* pg 2 */
+
+.container-fluid h5:hover{
+  color: rgb(226, 8, 242);
+  
+  
+}
+div.col-6 div p:hover{
+color: blueviolet;
+}
+.container .container-fluid{
+    justify-content: center;
+
+}
+
+.col-8 img{
+    width: 100%;
+}
+
+.header-1{
+background-color: white;
+height: 90px;
+}
+.col-4{
+    background-color: white;
+    margin: 0px;
+}
+.img-pg-2{
+    width: 100%;
+}
+#button-sobre-mim2{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly ;
+}
+
+#button-sobre-mim{
+    width: 100%;
+    display: flex;
+    justify-content:space-evenly ;
+}
+.yu{
+    width: 76px;
+}
+
+
+/* pg 3 */
+.bg-light-2{
+    background-color: white;
+}
+#footer-pg-3{
+    border-color: blueviolet;
+    border-style: solid;
+  border-width: 1px;
+}
+.container-fluid{
+    display: flex;
+    justify-content: center;
+    text-decoration: none;
+}
